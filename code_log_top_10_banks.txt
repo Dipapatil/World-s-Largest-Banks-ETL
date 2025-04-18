@@ -1,0 +1,9 @@
+2025-04-17 16:41:01.902817,  Preliminaries complete. Initiating ETL process 
+2025-04-17 16:41:01.903813,  Extraction Started 
+2025-04-17 16:41:03.505549,  Data extraction complete. Initiating Transformation process
+2025-04-17 16:41:03.512110,  Data transformation complete. Initiating Loading process
+2025-04-17 16:41:03.516013,  Data saved to CSV file 
+2025-04-17 16:41:03.523017,  SQL Connection Initiated
+2025-04-17 16:41:03.548622,  Data loaded to Database as a table, Executing Queries
+2025-04-17 16:41:03.555591,  Process Complete
+2025-04-17 16:41:03.556590,  Server Connection Closed
